@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133485410081",
+    "project_id": "otpauthentification-f05ee",
+    "storage_bucket": "otpauthentification-f05ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133485410081:android:58b7f116fb8d50746c3060",
+        "android_client_info": {
+          "package_name": "com.example.otpauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133485410081-vm9vrmem4qm4d2ngk89oa57fdhjocse8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj0f8sjooZpzEhlG1YXwS72nVm6WEgEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133485410081-vm9vrmem4qm4d2ngk89oa57fdhjocse8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
